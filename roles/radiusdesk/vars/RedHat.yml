@@ -51,7 +51,7 @@ php_fpm_config: "/etc/php-fpm.d/www.conf"
 php_fpm_socket: "/var/run/php-fpm.sock"
 php_session_save_path: "/var/lib/php/session"
 php_config_file: "/etc/php.ini"
-php_timezone: "Africa/Lagos"
+php_timezone: "Asia/Ho_Chi_Minh"
 
 # PHP7-FPM (RHEL/CentOS 6+)
 php7_fpm_service_name: null
