@@ -100,9 +100,9 @@ freeradius_secret: "testing123"
 allow_vulnerable_openssl: yes
 
 # Radiusdesk Database (RHEL/CentOS 6+)
-rd_db_user: rd
-rd_db_password: rd
-rd_db_name: rd
+rd_db_user: wifimedia
+rd_db_password: rd@wIMzA
+rd_db_name: wifimedia
 
 # MySQL (RHEL/CentOS 6+)
 mysql_old_root_password: ""
