@@ -70,4 +70,3 @@
     name={{ coovachilli_service_name }}
     state=restarted
     enabled=yes
-    
